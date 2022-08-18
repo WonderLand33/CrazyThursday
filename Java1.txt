@@ -1,0 +1,3 @@
+有没有懂java的大佬，我早上辛苦写了一段报错了，找不到原因 
+
+java.lang.IllegalArgumentException: KFC Crazy Thursday need $50.
