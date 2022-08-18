@@ -1,0 +1,18 @@
+周四请个人吃肯德基
+要求：
+1.做人有逼格
+2.对人有礼貌
+3.Computer Science/Software Engineering/Computer Engineering或相关专业研究生学历或QS前200学院本科学历及更高
+4.熟悉以下语言其中之一
+Python, C,C++,C#,Go
+5.五年以上Java Spring框架开发经历并有一定研究及成果，具有独立前后端开发能力
+6.有Database工作背景，熟悉SQL和数据库设计，具备mysql数据库设计和性能优化经验；熟悉主流非关系性数据库、缓存技术，如：Redis、MongoDB、
+Memcached等
+7.HTML5,CSS,JavaScript前端知识基础扎实，熟练掌握react,vue,Node.js框架
+8.持有Cisco CCNA以及上认证
+9.三年以上领导团队开发经验
+10.熟悉Unix/Linux系统操作
+11.服务器硬件维护知识
+12.有AWS/Azure操作经验
+13.具有良好的沟通能力和团队合作能力，具备良好的主动性和责任感
+面试成功后找我V50吃肯德基
